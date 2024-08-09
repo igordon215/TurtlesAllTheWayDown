@@ -9,7 +9,7 @@ public class GCD {
 
     }
 
-    public Long getGCD2(Long x, Long y) {
+    public static Long getGCD2(Long x, Long y) {
 
         Long counter = 0L;
         if (y == 0) {
