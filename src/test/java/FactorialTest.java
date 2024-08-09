@@ -30,6 +30,4 @@ public class FactorialTest {
         System.out.println("Factorial of " + input2 + " is: " + result1);
         assertEquals(Long.valueOf(120), result1);
     }
-
-
 }
